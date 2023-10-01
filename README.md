@@ -20,6 +20,6 @@ Figure 1. Get channel statistics by a given Youtube channel ID.
 **TECHNICAL PROBLEMS**:
 
 - Need to get authorization to use API
-- Need to use/install lots of dependencies (Maven/Gradle)
+- Need to use/install lots of dependencies (Maven/Gradle) - Confused about process
 - To "connect" means to input their channel ID (or, potentially just the channel name, we're still deciding on how that would work)
 - Still deciding if we want to add statistical analysis to the statistics part.
