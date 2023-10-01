@@ -18,31 +18,7 @@ This API has many functionalities. From retrieving video and channel data to set
 Figure 1. Get channel statistics by a given Youtube channel ID.
 
 **JAVA CODE OUTPUTS:**
-
-For `src/channel-stats.java`:
-```
-{
-  "kind": "youtube#channelListResponse",
-  "etag": "MCzLMNmYkdskRUXVGQPuo8fR1XQ",
-  "pageInfo": {
-    "totalResults": 1,
-    "resultsPerPage": 5
-  },
-  "items": [
-    {
-      "kind": "youtube#channel",
-      "etag": "LIUonjVYNzCOAvVxu6rN7rpgTi4",
-      "id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
-      "statistics": {
-        "viewCount": "33339877023",
-        "subscriberCount": "188000000",
-        "hiddenSubscriberCount": false,
-        "videoCount": "754"
-      }
-    }
-  ]
-}
-```
+see txt files in src/java/api
 
 
 **TECHNICAL PROBLEMS**:
@@ -54,4 +30,4 @@ Java code:
 
 About our description:
 - To "connect" means to input their channel ID (or, potentially just the channel name, we're still deciding on how that would work)
-- Still deciding if we want to add statistical analysis to the statistics part.
+- Still deciding what type of statistical analysis will be added to the statistics part.
