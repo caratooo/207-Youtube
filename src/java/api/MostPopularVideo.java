@@ -1,8 +1,11 @@
 package api;
+
 /**
- * Sample Java code for youtube.channels.list
- * Retrieved from Youtube API Data Try this Method
- * See ReadMe for what this file should output (due to technical difficulties, this file does not run properly.
+ * Sample Java code for youtube.videos.list
+ * This example retrieves a list of YouTube's most popular videos.
+ * The regionCode parameter identifies the country for which you are retrieving videos.
+ * The sample code is set to default to return the most popular videos in the United States.
+ * You could also use the videoCategoryId parameter to retrieve the most popular videos in a particular category.
  */
 
 import com.google.api.client.auth.oauth2.Credential;
@@ -17,7 +20,7 @@ import com.google.api.client.json.JsonFactory;
 import com.google.api.client.json.jackson2.JacksonFactory;
 
 import com.google.api.services.youtube.YouTube;
-import com.google.api.services.youtube.model.ChannelListResponse;
+import com.google.api.services.youtube.model.VideoListResponse;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -29,7 +32,7 @@ import java.util.Collection;
 public class ApiExample {
     private static final String CLIENT_SECRETS= "client_secret.json";
     private static final Collection<String> SCOPES =
-        Arrays.asList("https://www.googleapis.com/auth/youtube.readonly");
+            Arrays.asList("https://www.googleapis.com/auth/youtube.readonly");
 
     private static final String APPLICATION_NAME = "API code samples";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
@@ -44,13 +47,13 @@ public class ApiExample {
         // Load client secrets.
         InputStream in = ApiExample.class.getResourceAsStream(CLIENT_SECRETS);
         GoogleClientSecrets clientSecrets =
-          GoogleClientSecrets.load(JSON_FACTORY, new InputStreamReader(in));
+                GoogleClientSecrets.load(JSON_FACTORY, new InputStreamReader(in));
         // Build flow and trigger user authorization request.
         GoogleAuthorizationCodeFlow flow =
-            new GoogleAuthorizationCodeFlow.Builder(httpTransport, JSON_FACTORY, clientSecrets, SCOPES)
-            .build();
+                new GoogleAuthorizationCodeFlow.Builder(httpTransport, JSON_FACTORY, clientSecrets, SCOPES)
+                        .build();
         Credential credential =
-            new AuthorizationCodeInstalledApp(flow, new LocalServerReceiver()).authorize("user");
+                new AuthorizationCodeInstalledApp(flow, new LocalServerReceiver()).authorize("user");
         return credential;
     }
 
@@ -64,8 +67,8 @@ public class ApiExample {
         final NetHttpTransport httpTransport = GoogleNetHttpTransport.newTrustedTransport();
         Credential credential = authorize(httpTransport);
         return new YouTube.Builder(httpTransport, JSON_FACTORY, credential)
-            .setApplicationName(APPLICATION_NAME)
-            .build();
+                .setApplicationName(APPLICATION_NAME)
+                .build();
     }
 
     /**
@@ -75,12 +78,15 @@ public class ApiExample {
      * @throws GeneralSecurityException, IOException, GoogleJsonResponseException
      */
     public static void main(String[] args)
-        throws GeneralSecurityException, IOException, GoogleJsonResponseException {
+            throws GeneralSecurityException, IOException, GoogleJsonResponseException {
         YouTube youtubeService = getService();
         // Define and execute the API request
-        YouTube.Channels.List request = youtubeService.channels()
-            .list("statistics");
-        ChannelListResponse response = request.setId("UCX6OQ3DkcsbYNE6H8uQQuVA").execute();
+        YouTube.Videos.List request = youtubeService.videos()
+                .list("snippet,contentDetails,statistics");
+        VideoListResponse response = request.setChart("mostPopular")
+                .setRegionCode("US")
+                .execute();
         System.out.println(response);
     }
 }
+
