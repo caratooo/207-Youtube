@@ -1,0 +1,415 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "c2Ij22NbJOrc59MzAixM7fRE07g",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "AIuCMZb2Bg3yAXFoCjokL0QGYVw",
+      "id": "ku8W23zI32A",
+      "snippet": {
+        "publishedAt": "2023-10-01T07:18:00Z",
+        "channelId": "UCWXYAGB9SadlL6p5Bb66wWw",
+        "title": "Canelo vs Charlo HIGHLIGHTS: September 30, 2023 | PBC on Showtime PPV",
+        "description": "Undisputed super middleweight champion Canelo Álvarez successfully defended his world titles by dropping Jermell Charlo on his way to a dominant unanimous decision (119-109, 118-109 twice) in the SHOWTIME PPV main event Saturday night from T-Mobile Arena in Las Vegas. Canelo Promotions presented the Premier Boxing Champions pay-per-view. Canelo’s seventh-round knockdown can be viewed HERE.\n \n“I’m a strong fighter all the time, against all the fighters,” said Canelo. “I’m a strong man. Nobody can beat this Canelo.”\n \nCanelo (60-2-2, 39 KOs) was dominant from start to finish, using the masterful ring IQ and sublime power that’s made him a future Hall of Famer to flummox the junior middleweight king Charlo (35-2-1, 19 KOs). Moving up two weight classes in an attempt to reign in two divisions, Charlo was able to occasionally land flush but was met with a wall of resistance from Canelo.\n \n“I just felt like I wasn’t me in there,” said Charlo. “I don’t make excuses for myself, so it is what it is. I take my punches and roll with it. It’s boxing. Sometimes you win, sometimes you lose.”\n \nCharlo’s defense first showed cracks in the early rounds when Canelo’s signature power hooks to the body had a clear effect on him and forced him to focus largely on defense in the first half of the fight. In round seven, Canelo broke through with a looping overhand right that stunned Charlo and forced him to take a knee.\n \n“Truthfully, I could feel the difference in the weight,” said Charlo. “I picked up 14 pounds. I am undisputed in my weight division. You fall short sometimes, but you just have to keep on pushing. My roll don’t stop right here. I’m proud of myself. He hit me with some hard shots. I thought I got mine off. I’m the little Charlo and I represent that.”\n \nThe rest of the seventh round saw Charlo fight intelligently, and even land some of his cleanest shots to make it to the bell. Charlo initially showed more urgency but was unable to deter the surgical precision of Canelo’s offense and defense. Canelo dominated the CompuBox stats as well as the scorecards, owning a 134 to 71 advantage in total punches landed, including an impressive 42 body shots. \n \n“We worked on attacking the body,” said Canelo. “We know he’s a great fighter. He knows how to move in the ring. We worked on attacking the body for three months. For three months in the mountains without my family, without everything.”\n \nThe championship rounds saw more of the same as Canelo cruised to the final bell while being serenaded with chants from his thousands of loyal fans in attendance. After thanking his legions of supporters, Canelo declared himself open to facing anyone next .\n \n“I still love boxing,” said Canelo. “I love boxing so much. Boxing is my life. Boxing made me the person I am today. That’s why I love boxing so much. And I love boxing so much because of my fans, too…Cinco de Mayo I’ll face whoever. I don’t care.”\n\n#CaneloCharlo #Canelo #Highlights\n\nVisit PremierBoxingChampions.com for more info.\r\n\r\nSIGN UP FOR FIGHT ALERTS: \r\n\r\nhttps://pbcham.ps/FightAlerts\r\n\r\nFOLLOW US:\r\n\r\nhttps://twitter.com/premierboxing\r\nhttps://instagram.com/premierboxing\r\nhttps://www.facebook.com/premierboxingchampions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ku8W23zI32A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ku8W23zI32A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ku8W23zI32A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ku8W23zI32A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ku8W23zI32A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Premier Boxing Champions",
+        "tags": [
+          "Boxing",
+          "PBC",
+          "premier boxing champions",
+          "ko",
+          "tko",
+          "knockouts",
+          "fighter",
+          "boxer",
+          "mayweather",
+          "al haymon",
+          "showtime boxing",
+          "wilder",
+          "thurman",
+          "spence",
+          "porter",
+          "broner",
+          "fighting",
+          "best of",
+          "highlights",
+          "wbo",
+          "wba",
+          "wbc",
+          "ibo",
+          "ibf",
+          "boxing highlights",
+          "canelo vs charlo",
+          "canelo alvarez",
+          "jermell charlo",
+          "showtime ppv",
+          "showtime boxing ppv",
+          "canelo alvarez highlights",
+          "jermell charlo highlights",
+          "canelo alvarez vs. jermell charlo",
+          "canelo highlights",
+          "jermell charlo vs canelo",
+          "charlo vs canelo",
+          "canelo vs charlo highlights"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Canelo vs Charlo HIGHLIGHTS: September 30, 2023 | PBC on Showtime PPV",
+          "description": "Undisputed super middleweight champion Canelo Álvarez successfully defended his world titles by dropping Jermell Charlo on his way to a dominant unanimous decision (119-109, 118-109 twice) in the SHOWTIME PPV main event Saturday night from T-Mobile Arena in Las Vegas. Canelo Promotions presented the Premier Boxing Champions pay-per-view. Canelo’s seventh-round knockdown can be viewed HERE.\n \n“I’m a strong fighter all the time, against all the fighters,” said Canelo. “I’m a strong man. Nobody can beat this Canelo.”\n \nCanelo (60-2-2, 39 KOs) was dominant from start to finish, using the masterful ring IQ and sublime power that’s made him a future Hall of Famer to flummox the junior middleweight king Charlo (35-2-1, 19 KOs). Moving up two weight classes in an attempt to reign in two divisions, Charlo was able to occasionally land flush but was met with a wall of resistance from Canelo.\n \n“I just felt like I wasn’t me in there,” said Charlo. “I don’t make excuses for myself, so it is what it is. I take my punches and roll with it. It’s boxing. Sometimes you win, sometimes you lose.”\n \nCharlo’s defense first showed cracks in the early rounds when Canelo’s signature power hooks to the body had a clear effect on him and forced him to focus largely on defense in the first half of the fight. In round seven, Canelo broke through with a looping overhand right that stunned Charlo and forced him to take a knee.\n \n“Truthfully, I could feel the difference in the weight,” said Charlo. “I picked up 14 pounds. I am undisputed in my weight division. You fall short sometimes, but you just have to keep on pushing. My roll don’t stop right here. I’m proud of myself. He hit me with some hard shots. I thought I got mine off. I’m the little Charlo and I represent that.”\n \nThe rest of the seventh round saw Charlo fight intelligently, and even land some of his cleanest shots to make it to the bell. Charlo initially showed more urgency but was unable to deter the surgical precision of Canelo’s offense and defense. Canelo dominated the CompuBox stats as well as the scorecards, owning a 134 to 71 advantage in total punches landed, including an impressive 42 body shots. \n \n“We worked on attacking the body,” said Canelo. “We know he’s a great fighter. He knows how to move in the ring. We worked on attacking the body for three months. For three months in the mountains without my family, without everything.”\n \nThe championship rounds saw more of the same as Canelo cruised to the final bell while being serenaded with chants from his thousands of loyal fans in attendance. After thanking his legions of supporters, Canelo declared himself open to facing anyone next .\n \n“I still love boxing,” said Canelo. “I love boxing so much. Boxing is my life. Boxing made me the person I am today. That’s why I love boxing so much. And I love boxing so much because of my fans, too…Cinco de Mayo I’ll face whoever. I don’t care.”\n\n#CaneloCharlo #Canelo #Highlights\n\nVisit PremierBoxingChampions.com for more info.\r\n\r\nSIGN UP FOR FIGHT ALERTS: \r\n\r\nhttps://pbcham.ps/FightAlerts\r\n\r\nFOLLOW US:\r\n\r\nhttps://twitter.com/premierboxing\r\nhttps://instagram.com/premierboxing\r\nhttps://www.facebook.com/premierboxingchampions"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2435734",
+        "likeCount": "28997",
+        "favoriteCount": "0",
+        "commentCount": "4785"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CN3GN9U6vxqAHxZ6Fef5uVBQQxk",
+      "id": "mDr-G7Kjkb4",
+      "snippet": {
+        "publishedAt": "2023-10-01T05:11:26Z",
+        "channelId": "UCFPoJNd0d4k1H9A6UOlikcg",
+        "title": "Canelo Alvarez vs. Jermell Charlo: FULL CARD Highlights | SHOWTIME PPV",
+        "description": "In a historical 4-fight card, Mexican superstar and pound-for-pound great Canelo Álvarez dominated Jermell Charlo to score an impressive UD win and remind the world of his greatness.\n\n#canelo #canelocharlo #jermellcharlo #boxing #shosports #showtimechampionshipboxin\n\nDon't miss out on the action! Visit the below links to sign up for reminders!\n\nChampionship Boxing: https://s.sho.com/3oiG6RE\nBellator: https://s.sho.com/3eSmXDb\n\nSubscribe to the SHOWTIME Sports YouTube channel: https://goo.gl/s8CWVT\n\nFollow SHOWTIME Sports:\nFacebook: https://www.facebook.com/ShoSports/\nTwitter: https://twitter.com/SHOsports\nInstagram: https://instagram.com/shosports\nOfficial Site: https://www.sho.com/sports\n\nFollow SHOWTIME Boxing:\nFacebook: https://www.facebook.com/ShoBoxing\nTwitter: https://twitter.com/ShowtimeBoxing\nInstagram: https://instagram.com/showtimeboxing\nSnapchat: https://www.snapchat.com/add/showtimeboxing\nTumblr: http://showtimeboxing.tumblr.com/\n\nFollow SHOWTIME Basketball:\nInstagram: https://www.instagram.com/showtimebasketball\nTwitter: https://twitter.com/shobasketball\n\nFollow ALL THE SMOKE:\nInstagram: https://www.instagram.com/allthesmoke/\nYouTube: https://bit.ly/2OLkr50 \n\nFollow BELOW THE BELT with Brendan Schaub:\nFacebook: https://www.facebook.com/BelowTheBeltSHO\nTwitter: https://twitter.com/btbshowtime\nInstagram: https://www.instagram.com/belowthebelt/\nYouTube: http://s.sho.com/BelowtheBelt\n\nFollow MORNING KOMBAT:\nInstagram: https://www.instagram.com/morningkombat/\nYouTube: https://bit.ly/2lPpvsj\n\nFollow INSIDE THE NFL:\nFacebook: https://www.facebook.com/insidetheNFL\nTwitter: https://twitter.com/insidetheNFL\nInstagram: https://www.instagram.com/insidetheNFL/\n\nFollow 4th and Forever:\nInstagram: https://www.instagram.com/4thandforever/\nYouTube: http://bit.ly/30iZqSZ\n\nFollow SHOWTIME:\nFacebook: https://www.facebook.com/showtime\nTwitter: https://twitter.com/Showtime\nInstagram: https://instagram.com/showtime/\nYoutube: https://www.youtube.com/user/SHOWTIME\nOfficial Site: https://www.sho.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mDr-G7Kjkb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mDr-G7Kjkb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mDr-G7Kjkb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mDr-G7Kjkb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mDr-G7Kjkb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SHOWTIME Sports",
+        "tags": [
+          "showtime",
+          "shosports",
+          "sports",
+          "Showtime Boxing",
+          "Boxing",
+          "Shosports",
+          "Showtime Boxing PPV",
+          "Showtime PPV",
+          "Press Conference",
+          "boxer",
+          "Knockouts",
+          "boxing knockouts",
+          "KOs",
+          "Boxing KOs",
+          "boxing biggest knockouts",
+          "Boxing Biggest Fights",
+          "Canelo",
+          "Canelo Alvarez",
+          "Jermell Charlo",
+          "Jermell",
+          "Jermall Charlo",
+          "jermell charlo all access",
+          "canelo alvarez",
+          "canelo vs charlo",
+          "canelo highlights",
+          "canelo alvarez vs. jermell charlo",
+          "canelo alvarez highlights",
+          "jermell charlo highlights",
+          "jermell charlo vs canelo"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Canelo Alvarez vs. Jermell Charlo: FULL CARD Highlights | SHOWTIME PPV",
+          "description": "In a historical 4-fight card, Mexican superstar and pound-for-pound great Canelo Álvarez dominated Jermell Charlo to score an impressive UD win and remind the world of his greatness.\n\n#canelo #canelocharlo #jermellcharlo #boxing #shosports #showtimechampionshipboxin\n\nDon't miss out on the action! Visit the below links to sign up for reminders!\n\nChampionship Boxing: https://s.sho.com/3oiG6RE\nBellator: https://s.sho.com/3eSmXDb\n\nSubscribe to the SHOWTIME Sports YouTube channel: https://goo.gl/s8CWVT\n\nFollow SHOWTIME Sports:\nFacebook: https://www.facebook.com/ShoSports/\nTwitter: https://twitter.com/SHOsports\nInstagram: https://instagram.com/shosports\nOfficial Site: https://www.sho.com/sports\n\nFollow SHOWTIME Boxing:\nFacebook: https://www.facebook.com/ShoBoxing\nTwitter: https://twitter.com/ShowtimeBoxing\nInstagram: https://instagram.com/showtimeboxing\nSnapchat: https://www.snapchat.com/add/showtimeboxing\nTumblr: http://showtimeboxing.tumblr.com/\n\nFollow SHOWTIME Basketball:\nInstagram: https://www.instagram.com/showtimebasketball\nTwitter: https://twitter.com/shobasketball\n\nFollow ALL THE SMOKE:\nInstagram: https://www.instagram.com/allthesmoke/\nYouTube: https://bit.ly/2OLkr50 \n\nFollow BELOW THE BELT with Brendan Schaub:\nFacebook: https://www.facebook.com/BelowTheBeltSHO\nTwitter: https://twitter.com/btbshowtime\nInstagram: https://www.instagram.com/belowthebelt/\nYouTube: http://s.sho.com/BelowtheBelt\n\nFollow MORNING KOMBAT:\nInstagram: https://www.instagram.com/morningkombat/\nYouTube: https://bit.ly/2lPpvsj\n\nFollow INSIDE THE NFL:\nFacebook: https://www.facebook.com/insidetheNFL\nTwitter: https://twitter.com/insidetheNFL\nInstagram: https://www.instagram.com/insidetheNFL/\n\nFollow 4th and Forever:\nInstagram: https://www.instagram.com/4thandforever/\nYouTube: http://bit.ly/30iZqSZ\n\nFollow SHOWTIME:\nFacebook: https://www.facebook.com/showtime\nTwitter: https://twitter.com/Showtime\nInstagram: https://instagram.com/showtime/\nYoutube: https://www.youtube.com/user/SHOWTIME\nOfficial Site: https://www.sho.com/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "CA",
+            "US"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "593760",
+        "likeCount": "5408",
+        "favoriteCount": "0",
+        "commentCount": "2182"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "05zNxjuNe84bWBG-46uZoz9g22A",
+      "id": "xTzpFvl0F7Y",
+      "snippet": {
+        "publishedAt": "2023-09-30T18:57:06Z",
+        "channelId": "UCdFjlnv-TEz-hMmnDzsAXig",
+        "title": "LIL TAY - SUCKER 4 GREEN (Official Music Video)",
+        "description": "Listen to SUCKER 4 GREEN out now:\n\nhttps://lnk.to/SUCKER4GREEN\n\nLimited Edition signed 2018 merch:\n\nhttp://liltay2018.com\n\nFollow LIL TAY:\nInstagram:\n\nhttps://instagram.com/liltay\n\nTikTok:\n\nhttps://tiktok.com/@liltay\n\nTwitter:\n\nhttps://twitter.com/iamtheliltay\n\nFacebook:\n\nhttps://www.facebook.com/liltay\n\nYouTube:\n\n [/ @liltay](https://www.youtube.com/@liltay)\n\nDiscord: https://discord.gg/liltay\n\nCREDITS \nAn Open Operum Production\n\nExecutively produced by Jason Tian\n\nCreative directed by Lil Tay, Jason Tian\n\nDirected by Adrian Per, Jason Tian, Lil Tay\n\nWritten by Lil Tay, Jason Tian\n\nProduction manager Jason Tian\n\nAssistant producer - Joshua Shafighi, Nestor Tuduri\n\nCommissioner: Jason Tian\n\nHair: Linh Phan\nHair assistant Ruby Rainbow\n\nCustom Gucci: Kris Madden\n\nStylist Lil Tay, Kris Madden, Nestor Tuduri, Jason Tian\n\nPA: Jose Martinez, Erik Blanco\n\nMUA/ hairstylist Lynn Liu\n\nChoreo: Lil Tay, Allyson Wilcox\n\nDP: Khoi Nguyen\n\n1st AC: Hannah Lee\n\nDancers: \nDavid Geranium, Peyton Matthias, Martese, Ryan Yabeast, Edwin Morales, Bryor Lewis\n\nPost Production Executive Produced by Jason Tian of Open Operum \n\nLYRICS\nI walked in the party\nNo friends on my arm\nYou got my attention like a fire alarm\nI don’t wanna lose ya\nI don’t wanna lose ya\nI’m just looking through ya, you see my Medusa\n\nMoney, money, money\nMoney, money, money\n\nI just can’t look away from it\nI want it, want it, want it\n\nWhen you try to leave\nI got you paralyzed\nFall for it every time\n\nYou got me screaming\nAt the top of my lungs\nI must be dreaming\nI can’t get enough\n\nYou got me dripping off that look in your eyes\nWhat you do to me\nI’m a sucker for green\n\nSome calling it a sick obsession\nNothing wrong with being rich and blessed and\nI just want a few yachts and mansions, right now (Right now, brr!)\n\nBirkin bags and big diamonds\nDropping racks on my island\nGot a touch like I’m Midas (Touch it, touch it, love it, love it)\n\nOooh, it’s the way you keep looking at me-e-e (Ahhh)\nI can stand the heat of a million degrees\nFuego! (Oh)\n\nMoney, money, money\n(I just want your)\nMoney, money, money\nI just can’t look away from it\nI want it, want it, want it!\n\nYou got me screaming\nAt the top of my lungs\nI must be dreaming\nI can’t get enough\n\nYou got me dripping off that look in your eyes\nWhat you do to me\nI’m a sucker for green\n\nForgot to mention\nYou stay in my head\nYou’re my obsession\nCan’t get out of bed\n\nYou got me dripping off that look in your eyes\nWhat you do to me\nI’m a sucker for green\n\nWhat would I do without ya (money!)\n\nWe got a lil thang (Illuminati!)\n\nAnd i’m just lovin’ that (cash! cash!)\n\nIt’s comin’ and it’s goin so (fast! fast!)\n\nWhat would I do without ya (money!)\n\nWe got a lil thang (Illuminati!)\n\nCause all I want is your dollar signs\ngot me spending it all the time\n\nOooh, it’s the way you keep looking at me-e-e (Ahhh)\nI can stand the heat of a million degrees\nFuego! (Oh)\n\nMoney, money, money\nMoney, money, money\nI just can’t look away from it\nI want it, want it, want it!\n\nYou got me screaming\nAt the top of my lungs\nI must be dreaming (I must be dreaming)\nI can’t get enough\nYou got me dripping off that look in your eyes\nWhat you do to me (Whatya do to me)\nI’m a sucker for green\n\nSucker 4 Green produced by Jason Tian, Lil Tay\n\nWritten by Tay Tian, Jason Tian\n\nbusiness inquires: tay.t@openoperum.com\n\n#LILTAY #Comeback #NOW #Sucker4Green #S4G #MV #OutNow #FreeAgent #Money #OpenOperum",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTzpFvl0F7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTzpFvl0F7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTzpFvl0F7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xTzpFvl0F7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xTzpFvl0F7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LIL TAY",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LIL TAY - SUCKER 4 GREEN (Official Music Video)",
+          "description": "Listen to SUCKER 4 GREEN out now:\n\nhttps://lnk.to/SUCKER4GREEN\n\nLimited Edition signed 2018 merch:\n\nhttp://liltay2018.com\n\nFollow LIL TAY:\nInstagram:\n\nhttps://instagram.com/liltay\n\nTikTok:\n\nhttps://tiktok.com/@liltay\n\nTwitter:\n\nhttps://twitter.com/iamtheliltay\n\nFacebook:\n\nhttps://www.facebook.com/liltay\n\nYouTube:\n\n [/ @liltay](https://www.youtube.com/@liltay)\n\nDiscord: https://discord.gg/liltay\n\nCREDITS \nAn Open Operum Production\n\nExecutively produced by Jason Tian\n\nCreative directed by Lil Tay, Jason Tian\n\nDirected by Adrian Per, Jason Tian, Lil Tay\n\nWritten by Lil Tay, Jason Tian\n\nProduction manager Jason Tian\n\nAssistant producer - Joshua Shafighi, Nestor Tuduri\n\nCommissioner: Jason Tian\n\nHair: Linh Phan\nHair assistant Ruby Rainbow\n\nCustom Gucci: Kris Madden\n\nStylist Lil Tay, Kris Madden, Nestor Tuduri, Jason Tian\n\nPA: Jose Martinez, Erik Blanco\n\nMUA/ hairstylist Lynn Liu\n\nChoreo: Lil Tay, Allyson Wilcox\n\nDP: Khoi Nguyen\n\n1st AC: Hannah Lee\n\nDancers: \nDavid Geranium, Peyton Matthias, Martese, Ryan Yabeast, Edwin Morales, Bryor Lewis\n\nPost Production Executive Produced by Jason Tian of Open Operum \n\nLYRICS\nI walked in the party\nNo friends on my arm\nYou got my attention like a fire alarm\nI don’t wanna lose ya\nI don’t wanna lose ya\nI’m just looking through ya, you see my Medusa\n\nMoney, money, money\nMoney, money, money\n\nI just can’t look away from it\nI want it, want it, want it\n\nWhen you try to leave\nI got you paralyzed\nFall for it every time\n\nYou got me screaming\nAt the top of my lungs\nI must be dreaming\nI can’t get enough\n\nYou got me dripping off that look in your eyes\nWhat you do to me\nI’m a sucker for green\n\nSome calling it a sick obsession\nNothing wrong with being rich and blessed and\nI just want a few yachts and mansions, right now (Right now, brr!)\n\nBirkin bags and big diamonds\nDropping racks on my island\nGot a touch like I’m Midas (Touch it, touch it, love it, love it)\n\nOooh, it’s the way you keep looking at me-e-e (Ahhh)\nI can stand the heat of a million degrees\nFuego! (Oh)\n\nMoney, money, money\n(I just want your)\nMoney, money, money\nI just can’t look away from it\nI want it, want it, want it!\n\nYou got me screaming\nAt the top of my lungs\nI must be dreaming\nI can’t get enough\n\nYou got me dripping off that look in your eyes\nWhat you do to me\nI’m a sucker for green\n\nForgot to mention\nYou stay in my head\nYou’re my obsession\nCan’t get out of bed\n\nYou got me dripping off that look in your eyes\nWhat you do to me\nI’m a sucker for green\n\nWhat would I do without ya (money!)\n\nWe got a lil thang (Illuminati!)\n\nAnd i’m just lovin’ that (cash! cash!)\n\nIt’s comin’ and it’s goin so (fast! fast!)\n\nWhat would I do without ya (money!)\n\nWe got a lil thang (Illuminati!)\n\nCause all I want is your dollar signs\ngot me spending it all the time\n\nOooh, it’s the way you keep looking at me-e-e (Ahhh)\nI can stand the heat of a million degrees\nFuego! (Oh)\n\nMoney, money, money\nMoney, money, money\nI just can’t look away from it\nI want it, want it, want it!\n\nYou got me screaming\nAt the top of my lungs\nI must be dreaming (I must be dreaming)\nI can’t get enough\nYou got me dripping off that look in your eyes\nWhat you do to me (Whatya do to me)\nI’m a sucker for green\n\nSucker 4 Green produced by Jason Tian, Lil Tay\n\nWritten by Tay Tian, Jason Tian\n\nbusiness inquires: tay.t@openoperum.com\n\n#LILTAY #Comeback #NOW #Sucker4Green #S4G #MV #OutNow #FreeAgent #Money #OpenOperum"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1845637",
+        "likeCount": "85153",
+        "favoriteCount": "0",
+        "commentCount": "21691"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TJysU40yHW5n7QYb68Dg-Q8_-i0",
+      "id": "xY1pmPmXWbE",
+      "snippet": {
+        "publishedAt": "2023-10-01T05:31:26Z",
+        "channelId": "UCja8sZ2T4ylIqjggA1Zuukg",
+        "title": "Canelo Alvarez DROPS Jermell Charlo, Wins Via UNANIMOUS DECISION To Retain Title I FULL HIGHLIGHTS",
+        "description": "Brian Campbell joins CBS Sports HQ to recap Canelo Alvarez victory over Jermell Charlo.\n\nSUBSCRIBE TO OUR CHANNEL:\nhttps://www.youtube.com/user/CBSSports\n\nWATCH\nCBS Sports HQ: https://www.cbssports.com/live/\nParamount Plus: https://www.paramountplus.com\n \nFOLLOW US ON:\nFacebook - https://www.facebook.com/CBSSports/\nInstagram - https://www.instagram.com/cbssports/\nTwitter - https://twitter.com/CBSSports\n\n#boxing #caneloalvarez #jermellcharlo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xY1pmPmXWbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xY1pmPmXWbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xY1pmPmXWbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xY1pmPmXWbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xY1pmPmXWbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Sports",
+        "tags": [
+          "jermell charlo",
+          "canelo alvarez",
+          "canelo vs charlo",
+          "boxing",
+          "canelo vs charlo live",
+          "canelo vs charlo full fight",
+          "canelo vs charlo highlights",
+          "canelo charlo highlights"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Canelo Alvarez DROPS Jermell Charlo, Wins Via UNANIMOUS DECISION To Retain Title I FULL HIGHLIGHTS",
+          "description": "Brian Campbell joins CBS Sports HQ to recap Canelo Alvarez victory over Jermell Charlo.\n\nSUBSCRIBE TO OUR CHANNEL:\nhttps://www.youtube.com/user/CBSSports\n\nWATCH\nCBS Sports HQ: https://www.cbssports.com/live/\nParamount Plus: https://www.paramountplus.com\n \nFOLLOW US ON:\nFacebook - https://www.facebook.com/CBSSports/\nInstagram - https://www.instagram.com/cbssports/\nTwitter - https://twitter.com/CBSSports\n\n#boxing #caneloalvarez #jermellcharlo"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT7M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AS",
+            "FM",
+            "GU",
+            "MH",
+            "MP",
+            "PR",
+            "UM",
+            "US",
+            "VI"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "366266",
+        "likeCount": "3142",
+        "favoriteCount": "0",
+        "commentCount": "1171"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dE3nVqt7CKtJys1pTQr1KYx9ezg",
+      "id": "9c2NqlUWZfo",
+      "snippet": {
+        "publishedAt": "2023-09-30T13:00:07Z",
+        "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+        "title": "World’s Smallest Nerf Gun Shoots an Ant",
+        "description": "Creating the World’s smallest Nerf gun 5 times in a row. Reserve your CrunchLabs Build Box for the holidays here- https://crunchlabs.com\n\nI started a company called CrunchLabs, where we build a toy together, and then I teach you all the juicy physics for how it works. So if you want to learn to think like an engineer and have a really fun time doing it, check out the current promotion where you get 2 FREE boxes at https://crunchlabs.com\n\nThanks to these folks for providing some of the music in the video: \nA Shell in the Pit - https://ashellinthepit.bandcamp.com/\nPonder - @pondermusic   \nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie \nBlue Wednesday - https://soundcloud.com/bluewednesday \n\nSpecial thanks to my friends at BYU - Larry Howell, Brian Jensen, Spencer Magleby, Terri Bateman, Felipe Rivera, Jacob Sheffield, Grant Ogilvie, Bridget Kember, Bethany Parkinson, Aliya Bascom, James Wade, Hunter Pruett, Jared Hunter, Luke Gardner, Ivyann Running, Michael Linder, Brooklyn Peters, Jared Erickson, Austin Martel, Kyle Dahl, Julie Walker, Adam Sanders, Matt Michell and Barret Schoenrock.\n\nDownload files for compliant mechanisms that you can 3D print (including a compliant mechanism blaster): https://compliantmechanisms.byu.edu/maker-resources\n \nTo learn more about the BYU Compliant Mechanisms Research Group (CMR), see https://compliantmechanisms.byu.edu/\n\nAlso, thanks to the very talented group of researchers from the Salk Institute, UC San Diego, and UC San Francisco: Lauren P. Takiguchi, Jocelyn G. Olvera, Amanda L. Wacker, Ryan J. Fantasia, Boyu Liu, and Pallav Kosuri, Wade Shipley of UC San Diego, and Konlin Shen, Roopal Rawani, Amy Cao, Mike Jeffs, and Victoria Johnson.\n\nTo read more about DNA Origami NanoNERF Blasters, please visit https://kosurilab.com/docs/Takiguchi-Rober-Kosuri-nanoNERF-manuscript\n\nTo learn more about Pallav Kosuri’s research and to support him in making DNA machines that improve human health, please visit https://www.salk.edu/kosuri. To support his work, click on the ‘give’ button and note ‘Kosuri Lab’ in the comments. \n\n \nNO PURCHASE NECESSARY. Promotion starts on 1/1/2023 & ends on 12/31/23, subject to monthly entry deadlines. Open to legal residents of the 50 U.S. & D.C., 18+. 1 prize per month: each month is its own separate promotion. For the first 2-3 months, winner may be notified via phone call instead of winning game piece. If a monthly prize is unclaimed/forfeited, it will be awarded via 2nd chance drawing. See Official Rules at crunchlabs.com/sweepstakes for full details on eligibility requirements, how to enter, free method of entry, prize claim procedure, prize description and limitations. Void where prohibited.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9c2NqlUWZfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9c2NqlUWZfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9c2NqlUWZfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9c2NqlUWZfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9c2NqlUWZfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mark Rober",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "World’s Smallest Nerf Gun Shoots an Ant",
+          "description": "Creating the World’s smallest Nerf gun 5 times in a row. Reserve your CrunchLabs Build Box for the holidays here- https://crunchlabs.com\n\nI started a company called CrunchLabs, where we build a toy together, and then I teach you all the juicy physics for how it works. So if you want to learn to think like an engineer and have a really fun time doing it, check out the current promotion where you get 2 FREE boxes at https://crunchlabs.com\n\nThanks to these folks for providing some of the music in the video: \nA Shell in the Pit - https://ashellinthepit.bandcamp.com/\nPonder - @pondermusic   \nLaura Shigihara - @supershigi \nAndrew Applepie - https://soundcloud.com/andrewapplepie \nBlue Wednesday - https://soundcloud.com/bluewednesday \n\nSpecial thanks to my friends at BYU - Larry Howell, Brian Jensen, Spencer Magleby, Terri Bateman, Felipe Rivera, Jacob Sheffield, Grant Ogilvie, Bridget Kember, Bethany Parkinson, Aliya Bascom, James Wade, Hunter Pruett, Jared Hunter, Luke Gardner, Ivyann Running, Michael Linder, Brooklyn Peters, Jared Erickson, Austin Martel, Kyle Dahl, Julie Walker, Adam Sanders, Matt Michell and Barret Schoenrock.\n\nDownload files for compliant mechanisms that you can 3D print (including a compliant mechanism blaster): https://compliantmechanisms.byu.edu/maker-resources\n \nTo learn more about the BYU Compliant Mechanisms Research Group (CMR), see https://compliantmechanisms.byu.edu/\n\nAlso, thanks to the very talented group of researchers from the Salk Institute, UC San Diego, and UC San Francisco: Lauren P. Takiguchi, Jocelyn G. Olvera, Amanda L. Wacker, Ryan J. Fantasia, Boyu Liu, and Pallav Kosuri, Wade Shipley of UC San Diego, and Konlin Shen, Roopal Rawani, Amy Cao, Mike Jeffs, and Victoria Johnson.\n\nTo read more about DNA Origami NanoNERF Blasters, please visit https://kosurilab.com/docs/Takiguchi-Rober-Kosuri-nanoNERF-manuscript\n\nTo learn more about Pallav Kosuri’s research and to support him in making DNA machines that improve human health, please visit https://www.salk.edu/kosuri. To support his work, click on the ‘give’ button and note ‘Kosuri Lab’ in the comments. \n\n \nNO PURCHASE NECESSARY. Promotion starts on 1/1/2023 & ends on 12/31/23, subject to monthly entry deadlines. Open to legal residents of the 50 U.S. & D.C., 18+. 1 prize per month: each month is its own separate promotion. For the first 2-3 months, winner may be notified via phone call instead of winning game piece. If a monthly prize is unclaimed/forfeited, it will be awarded via 2nd chance drawing. See Official Rules at crunchlabs.com/sweepstakes for full details on eligibility requirements, how to enter, free method of entry, prize claim procedure, prize description and limitations. Void where prohibited."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6212828",
+        "likeCount": "238043",
+        "favoriteCount": "0",
+        "commentCount": "6500"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
