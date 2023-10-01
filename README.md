@@ -48,7 +48,7 @@ For `src/channel-stats.java`:
 **TECHNICAL PROBLEMS**:
 
 Java code:
-- Need to use/install lots of dependencies (Maven/Gradle) - Confused about process
+- Need to use/install lots of dependencies (Maven/Gradle) in order to import all the classes from the API. Check `maven-testing` branch to see our attempt on trying to figure out how to use it.
   - Confused about process/how to use Maven/Gradle to download the files onto our repo, so we cannot apply the Youtube API file from: https://github.com/googleapis/google-api-java-client-services/blob/main/clients/google-api-services-youtube/v3/2.0.0/com/google/api/services/youtube
   - We have the Java code to send a request to the API, but not all the imports…so we can’t run the file in our repo
 
