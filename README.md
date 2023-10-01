@@ -18,7 +18,8 @@ This API has many functionalities. From retrieving video and channel data to set
 Figure 1. Get channel statistics by a given Youtube channel ID.
 
 **JAVA CODE OUTPUTS**
-For `src/channel-stats.java`
+
+For `src/channel-stats.java`:
 ```
 {
   "kind": "youtube#channelListResponse",
