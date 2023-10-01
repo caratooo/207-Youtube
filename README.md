@@ -1,19 +1,19 @@
 # 207-Youtube
 
 
-Project Domain: Statistics/Data Reporter
+**PROJECT DOMAIN**: Statistics/Data Reporter
 
-Description:
+**DESCRIPTION**:
 - classes
 - 
 
-API:
+**API USED**:
 - Youtube V3 Data: https://developers.google.com/youtube/v3
 
-Screenshot of API:
+**SCREENSHOTS OF API**:
 ![image](https://github.com/caratooo/207-Youtube/assets/107289876/da0e34c7-2f15-4e7e-a945-0180750a32a7)
+Figure 1. Get channel statistics by a given Youtube channel ID.
 
+**JAVA CODE SAMPLE**:
 
-Java code example:
-
-Technical problems:
+**TECHNICAL PROBLEMS**:
