@@ -15,10 +15,35 @@ This API has many functionalities. From retrieving video and channel data to set
 
 **SCREENSHOTS OF API**:
 ![image](https://github.com/caratooo/207-Youtube/assets/107289876/da0e34c7-2f15-4e7e-a945-0180750a32a7)
-Figure 1. Get channel statistics by a given Youtube channel ID.
+Figure 1. Trying out get channel statistics by a given Youtube channel ID on Postman.
 
 **JAVA CODE OUTPUTS:**
-see txt files in src/java/api
+output for src/java/api/channelStats.java which is the output for getting channel statistics by a given Youtube channel ID:
+```agsl
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "MCzLMNmYkdskRUXVGQPuo8fR1XQ",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "LIUonjVYNzCOAvVxu6rN7rpgTi4",
+      "id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "statistics": {
+        "viewCount": "33339877023",
+        "subscriberCount": "188000000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "754"
+      }
+    }
+  ]
+}
+
+```
+for more examples see txt files in src/java/api
 
 
 **TECHNICAL PROBLEMS**:
